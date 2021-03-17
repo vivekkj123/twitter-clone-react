@@ -12,7 +12,7 @@
     "react": "^16.14.0",
     "firebase": "^8.3.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-scripts": "^3.4.3",
     "react-twitter-embed": "^3.0.3",
     "react-twitter-widgets": "^1.9.5"
