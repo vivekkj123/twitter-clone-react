@@ -14,7 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.14.0",
     "react-scripts": "^5.0.0",
-    "react-twitter-embed": "^3.0.3",
+    "react-twitter-embed": "^4.0.4",
     "react-twitter-widgets": "^1.10.0"
   },
   "scripts": {
