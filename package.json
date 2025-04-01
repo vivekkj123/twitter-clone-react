@@ -11,7 +11,7 @@
     "firebase": "^7.18.0",
     "react": "^16.14.0",
     "firebase": "^11.5.0",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1",
     "react-twitter-embed": "^4.0.4",
