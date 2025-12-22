@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^14.6.1",
     "firebase": "^7.18.0",
     "react": "^16.14.0",
-    "firebase": "^12.6.0",
+    "firebase": "^12.7.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-scripts": "^5.0.1",
